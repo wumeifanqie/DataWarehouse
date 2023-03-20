@@ -1,0 +1,4 @@
+select
+*
+from
+text1
