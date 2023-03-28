@@ -10,4 +10,4 @@ from
     from emp
 )as a
 group by a.deptno
-where a,rank_1 >1 and a.rank_2 >1 
+where a.rank_1 >1 and a.rank_2 >1 
